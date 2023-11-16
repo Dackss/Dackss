@@ -39,5 +39,5 @@ Hi, I'm Dacks, a 17-year-old student and future IT engineer with a passion for c
 
 <!-- Adding a personal touch or invitation to connect -->
 <div>
-  <a href="https://discord.gg/zNNYDQq"><img style="width: 50px; height: 50px;" src="https://upload.wikimedia.org/wikipedia/fr/thumb/9/98/Discord_logo.svg/langfr-220px-Discord_logo.svg.png" alt="Discord"></a>
+  <a href="https://discord.gg/zNNYDQq"><img style="width: 200px; height: 50px;" src="https://upload.wikimedia.org/wikipedia/fr/thumb/9/98/Discord_logo.svg/langfr-220px-Discord_logo.svg.png" alt="Discord"></a>
 </div>
