@@ -33,6 +33,7 @@ Hi, I'm Dacks, a 17-year-old student and future IT engineer with a passion for c
   <img style="width: 50px; height: 50;" src="https://imgs.search.brave.com/e0VkNCENisQLQvlReoUQ5jnLTfuurFFdVKVffVBpvdM/rs:fit:860:0:0/g:ce/aHR0cHM6Ly93d3cu/Y29tcGFyYXRpZi1s/b2dpY2llbHMuZnIv/d3AtY29udGVudC91/cGxvYWRzLzIwMjEv/MDYvY2xpb24tYXZp/cy10YXJpZi1hbHRl/cm5hdGl2ZS1jb21w/YXJhdGlmLWxvZ2lj/aWVscy1zYWFzLndl/YnA" alt="CLion">
   <img style="width: 50px; height: 50;" src="https://imgs.search.brave.com/gJK6hcqeVDvmYqPyx-g9ZlG4soYu--awmtspf2457mw/rs:fit:860:0:0/g:ce/aHR0cHM6Ly93YWth/dGltZS5jb20vc3Rh/dGljL2ltZy9lZGl0/b3ItaWNvbnMvd2Vi/c3Rvcm0tMTI4LnBu/Zw" alt="WebStorm">
   <img style="width: 50px; height: 50;" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/PyCharm_Icon.svg/langfr-1024px-PyCharm_Icon.svg.png" alt="PyCharm">
+  <img style="width: 50px; height: 50;" src="https://imgs.search.brave.com/t5Gh4h12EKJUKsBYlQEidsH_O2SyxBPQABqSv3rnPxU/rs:fit:860:0:0/g:ce/aHR0cHM6Ly9icmFu/ZHNsb2dvcy5jb20v/d3AtY29udGVudC91/cGxvYWRzL2ltYWdl/cy9kZWJpYW4tbG9n/by5wbmc" alt="Debian">
 </div>
 
 ### 📩 Contact Me
