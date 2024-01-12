@@ -1,13 +1,3 @@
-<div align="center">
-  <img src="https://avatars.githubusercontent.com/u/114010431?v=4" width="150px" height="150px" alt="@mrcyci6"/>
-</div>
-
-<div align="center">
-  <h5><a href="https://discord.gg/zNNYDQq3">@dacks_</a></h5>
-</div>
-
-# Welcome to My GitHub!
-
 ### 🤙 About Me
 
 Hi, I'm Dacks, a 17-year-old student and future IT engineer with a passion for cybersecurity. Ever since I was a kid, I've been coding everything from websites to 3D games. Today, I'm fully immersed in the world of IT. Here on GitHub, I share scripts and projects that I hope you'll find useful. If you need help or want to discuss a project, don't hesitate to contact me on Discord : [@dacks_].
